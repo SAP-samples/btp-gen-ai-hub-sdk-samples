@@ -1,4 +1,4 @@
-# Set up Generative AI Hub SDK
+# Set up Generative AI Hub SDK (Phyton)
 
 <!--- Author: Oliver Stiefbold  --->
 
